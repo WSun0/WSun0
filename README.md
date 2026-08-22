@@ -7,8 +7,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Background in competitive math and research; 1x AMC DHR, 3x AIME qualifier, 4x co-authored papers. Recent CS grad.
-- 🔭 Recently Building: AI-native projects
-- 🌱 Recently Learning: RAG, Vector Databases, Agent Harnesses, Automated Workflows
+- 🔭 Recently Building: Projects with autonomous AI agents
+- 🌱 Recently Learning: RAG, Agent Harnesses, Automated Workflows
 - 📫 Contact: william.sun.us@gmail.com
 - 🧳 Currently: in Google SWE new grad team matching process & exploring new opportunities in the meantime. Also exploring concurrent online MS programs.
 
