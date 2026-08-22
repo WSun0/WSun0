@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm William 👋</h1>
 
 <p align="center">
-  Software Engineer • Recent CS Graduate • Backend & Cloud
+  Software Engineer • Researcher
 </p>
 
 ## 👨‍💻 About Me
