@@ -9,8 +9,7 @@
 - 🎓 Background in competitive math and research; 1x AMC DHR, 3x AIME qualifier, 4x co-authored papers. Recent CS grad.
 - 🔭 Recently Building: Projects with autonomous AI agents, high performant projects and pipelines in Go and C++.
 - 🌱 Recently Learning: Lock-free concurrency, advanced memory management, gRPC microservices, and AI agent workflows.
-- 📫 Contact: william.sun.us@gmail.com
-- 🧳 Currently: in Google SWE new grad team matching process & exploring new opportunities in the meantime. Also exploring concurrent online MS programs.
+- 🧳 Currently: SWE @ Amazon, joining Google soon @ MTV :)
 
 ---
 
