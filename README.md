@@ -7,8 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Background in competitive math and research; 1x AMC DHR, 3x AIME qualifier, 4x co-authored papers. Recent CS grad.
-- 🔭 Recently Building: Projects with autonomous AI agents, high performant projects and pipelines in Go and C++.
-- 🌱 Recently Learning: Lock-free concurrency, advanced memory management, gRPC microservices, and AI agent workflows.
+- 🔭 Recently Building: projects with AI agents and unified memory to automate trivial workflows in my life
 - 🧳 Currently: SWE @ Amazon, joining Google soon @ MTV :)
 
 ---
