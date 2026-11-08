@@ -11,7 +11,7 @@ Software engineer at Google in Mountain View, California.
 
 Background in competitive mathematics and academic research, with 4 co-authored papers, an AMC Distinguished Honor Roll distinction, and 3 AIME qualifications.
 
-Currently building AI agents and unified-memory systems to automate everyday workflows.
+In my free time: currently building AI agents and unified-memory systems to automate everyday workflows.
 
 ## Tech Stack
 
