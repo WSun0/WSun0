@@ -7,7 +7,7 @@
 
 ## About
 
-Software engineer @Google based in Mountain View, California.
+Software engineer at Google based in Mountain View, California.
 
 I have a background in competitive mathematics and academic research. I've co-authored 4 papers in algorithms/game theory, was on the Distinguished Honor Roll (top 1% scorer) for the American Mathematics Contest, and qualified for AIME 3 times. In my free time, I like to build side projects to make my life easier (and maximize my laziness...) by addressing real problems and inconveniences in my life. Recently, I have been building custom AI agents with unified-memory systems to automate everyday workflows.
 
