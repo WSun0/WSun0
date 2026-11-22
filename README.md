@@ -9,9 +9,7 @@
 
 Software engineer at Google in Mountain View, California.
 
-Background in competitive mathematics & academic research with 4 co-authored papers, an AMC Distinguished Honor Roll distinction, and 3 AIME qualifications.
-
-In my free time, I like to build side projects to make my life easier by addressing real pain points. Recently, I have been building custom AI agents with unified-memory systems to automate everyday workflows.
+I have a background in competitive mathematics and academic research. I've co-authored 4 papers in algorithms/game theory, was on the Distinguished Honor Roll (top 1% scorer) for the American Mathematics Contest, and qualified for AIME 3 times. In my free time, I like to build side projects to make my life easier (and maximize my laziness...) by addressing real problems and inconveniences in my life. Recently, I have been building custom AI agents with unified-memory systems to automate everyday workflows.
 
 ## Tech Stack
 
